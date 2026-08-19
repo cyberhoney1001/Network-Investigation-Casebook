@@ -1,6 +1,6 @@
 # Case ID #
 NIC-001
-(Port Investigation Casebook — Case 001)
+(Network Investigation Casebook — Case 001)
 
 
 ## Case Type ##
